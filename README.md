@@ -1,0 +1,1 @@
+Frontend for hzpaste app https://github.com/ep4sh/hzpaste
